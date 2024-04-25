@@ -26,7 +26,9 @@ Una función \( f(t) \) es continua y PWL si está compuesta por \( K \) segment
 El error de aproximación de una pieza \( f_k(t) \) definida por los breakpoints \( (r_k, z_k) \) y \( (r_{k+1}, z_{k+1}) \) está dado por:
 
 \[
-D((r_k, z_k), (r_{k+1}, z_{k+1})) = \sum_{i=1}^{n} |y_i - f_k(x_i)|
+D((r_k, z_k), (r_{k+1}, z_{k+1})) = ∑_{i=1}^{n} |y_i - f_k(x_i)|
+
+
 \]
 
 ## Datos y Resolución del Problema
